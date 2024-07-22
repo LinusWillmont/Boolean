@@ -1,0 +1,3 @@
+[submodule "angular-greengrocers"]
+	path = angular-greengrocers
+	url = git@github.com:LinusWillmont/angular-greengrocers.git
