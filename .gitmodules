@@ -1,3 +1,216 @@
 [submodule "angular-greengrocers"]
 	path = angular-greengrocers
 	url = git@github.com:LinusWillmont/angular-greengrocers.git
+[submodule "angular-todo-list"]
+	path = angular-todo-list
+	url = git@github.com:LinusWillmont/angular-todo-list.git
+[submodule "angular-address-book"]
+	path = angular-address-book
+	url = https://github.com/LinusWillmont/angular-address-book
+[submodule "angular-friends-list"]
+	path = angular-friends-list
+	url = https://github.com/LinusWillmont/angular-friends-list
+[submodule "react-cohort-dashboard-challenge"]
+	path = react-cohort-dashboard-challenge
+	url = https://github.com/LinusWillmont/react-cohort-dashboard-challenge
+[submodule "react-context-api-simple-example"]
+	path = react-context-api-simple-example
+	url = https://github.com/LinusWillmont/react-context-api-simple-example
+[submodule "react-context-api"]
+	path = react-context-api
+	url = https://github.com/LinusWillmont/react-context-api
+[submodule "react-address-book-part-2"]
+	path = react-address-book-part-2
+	url = https://github.com/LinusWillmont/react-address-book-part-2
+[submodule "react-address-book-part-1"]
+	path = react-address-book-part-1
+	url = https://github.com/LinusWillmont/react-address-book-part-1
+[submodule "react-hire-router"]
+	path = react-hire-router
+	url = https://github.com/LinusWillmont/react-hire-router
+[submodule "react-routes-practice-1"]
+	path = react-routes-practice-1
+	url = https://github.com/LinusWillmont/react-routes-practice-1
+[submodule "react-survey"]
+	path = react-survey
+	url = https://github.com/LinusWillmont/react-survey
+[submodule "react-effect-for-fetch"]
+	path = react-effect-for-fetch
+	url = https://github.com/LinusWillmont/react-effect-for-fetch
+[submodule "react-use-effect-dependencies-practice-1"]
+	path = react-use-effect-dependencies-practice-1
+	url = https://github.com/LinusWillmont/react-use-effect-dependencies-practice-1
+[submodule "react-forms-practice"]
+	path = react-forms-practice
+	url = https://github.com/LinusWillmont/react-forms-practice
+[submodule "react-state-calculator"]
+	path = react-state-calculator
+	url = https://github.com/LinusWillmont/react-state-calculator
+[submodule "react-gmail-state"]
+	path = react-gmail-state
+	url = https://github.com/LinusWillmont/react-gmail-state
+[submodule "react-immutable-state"]
+	path = react-immutable-state
+	url = https://github.com/LinusWillmont/react-immutable-state
+[submodule "react-gmail-props"]
+	path = react-gmail-props
+	url = https://github.com/LinusWillmont/react-gmail-props
+[submodule "react-props-practice-2"]
+	path = react-props-practice-2
+	url = https://github.com/LinusWillmont/react-props-practice-2
+[submodule "react-props-practice-1"]
+	path = react-props-practice-1
+	url = https://github.com/LinusWillmont/react-props-practice-1
+[submodule "react-gmail-intro"]
+	path = react-gmail-intro
+	url = https://github.com/LinusWillmont/react-gmail-intro
+[submodule "react-components-intro"]
+	path = react-components-intro
+	url = https://github.com/LinusWillmont/react-components-intro
+[submodule "js-dom-brewery-tours-challenge"]
+	path = js-dom-brewery-tours-challenge
+	url = https://github.com/LinusWillmont/js-dom-brewery-tours-challenge
+[submodule "js-dom-dog-owners"]
+	path = js-dom-dog-owners
+	url = https://github.com/LinusWillmont/js-dom-dog-owners
+[submodule "js-dom-greengrocers"]
+	path = js-dom-greengrocers
+	url = https://github.com/LinusWillmont/js-dom-greengrocers
+[submodule "js-dom-pokemon-cards"]
+	path = js-dom-pokemon-cards
+	url = https://github.com/LinusWillmont/js-dom-pokemon-cards
+[submodule "js-fundamentals-functions-2"]
+	path = js-fundamentals-functions-2
+	url = https://github.com/LinusWillmont/js-fundamentals-functions-2
+[submodule "js-fundamentals-functions-1"]
+	path = js-fundamentals-functions-1
+	url = https://github.com/LinusWillmont/js-fundamentals-functions-1
+[submodule "js-fundamentals-objects"]
+	path = js-fundamentals-objects
+	url = https://github.com/LinusWillmont/js-fundamentals-objects
+[submodule "js-fundamentals-loops"]
+	path = js-fundamentals-loops
+	url = https://github.com/LinusWillmont/js-fundamentals-loops
+[submodule "js-fizzbuzz-procedural"]
+	path = js-fizzbuzz-procedural
+	url = https://github.com/LinusWillmont/js-fizzbuzz-procedural
+[submodule "js-fundamentals-control-flow"]
+	path = js-fundamentals-control-flow
+	url = https://github.com/LinusWillmont/js-fundamentals-control-flow
+[submodule "js-fundamentals-primitive-data-types"]
+	path = js-fundamentals-primitive-data-types
+	url = https://github.com/LinusWillmont/js-fundamentals-primitive-data-types
+[submodule "js-fundamentals-variables"]
+	path = js-fundamentals-variables
+	url = https://github.com/LinusWillmont/js-fundamentals-variables
+[submodule "js-fundamentals-arrays"]
+	path = js-fundamentals-arrays
+	url = https://github.com/LinusWillmont/js-fundamentals-arrays
+[submodule "boolean-rpg-practice"]
+	path = boolean-rpg-practice
+	url = https://github.com/LinusWillmont/boolean-rpg-practice
+[submodule "csharp-api-cinema-challenge"]
+	path = csharp-api-cinema-challenge
+	url = https://github.com/LinusWillmont/csharp-api-cinema-challenge
+[submodule "csharp-auth-jwt"]
+	path = csharp-auth-jwt
+	url = https://github.com/LinusWillmont/csharp-auth-jwt
+[submodule "csharp-tdd-oop-bobs-bagels"]
+	path = csharp-tdd-oop-bobs-bagels
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-bobs-bagels
+[submodule "csharp-api-requests-responses"]
+	path = csharp-api-requests-responses
+	url = https://github.com/LinusWillmont/csharp-api-requests-responses
+[submodule "csharp-api-entity-test"]
+	path = csharp-api-entity-test
+	url = https://github.com/LinusWillmont/csharp-api-entity-test
+[submodule "csharp-docker-day-1"]
+	path = csharp-docker-day-1
+	url = https://github.com/LinusWillmont/csharp-docker-day-1
+[submodule "csharp-entity-framework-intro"]
+	path = csharp-entity-framework-intro
+	url = https://github.com/LinusWillmont/csharp-entity-framework-intro
+[submodule "csharp-apis-sql-relations-and-joins"]
+	path = csharp-apis-sql-relations-and-joins
+	url = https://github.com/LinusWillmont/csharp-apis-sql-relations-and-joins
+[submodule "api-sql-intro"]
+	path = api-sql-intro
+	url = https://github.com/LinusWillmont/api-sql-intro
+[submodule "database-design"]
+	path = database-design
+	url = https://github.com/LinusWillmont/database-design
+[submodule "csharp-mvc-in-memory-data-store"]
+	path = csharp-mvc-in-memory-data-store
+	url = https://github.com/LinusWillmont/csharp-mvc-in-memory-data-store
+[submodule "csharp-api-counter"]
+	path = csharp-api-counter
+	url = https://github.com/LinusWillmont/csharp-api-counter
+[submodule "csharp-tdd-oop-bank-challenge"]
+	path = csharp-tdd-oop-bank-challenge
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-bank-challenge
+[submodule "csharp-tdd-oop-abstraction"]
+	path = csharp-tdd-oop-abstraction
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-abstraction
+[submodule "csharp-tdd-todo-list"]
+	path = csharp-tdd-todo-list
+	url = https://github.com/LinusWillmont/csharp-tdd-todo-list
+[submodule "csharp-tdd-domain-modelling"]
+	path = csharp-tdd-domain-modelling
+	url = https://github.com/LinusWillmont/csharp-tdd-domain-modelling
+[submodule "csharp-fundamentals-poker"]
+	path = csharp-fundamentals-poker
+	url = https://github.com/LinusWillmont/csharp-fundamentals-poker
+[submodule "csharp-scrabble-challenge"]
+	path = csharp-scrabble-challenge
+	url = https://github.com/LinusWillmont/csharp-scrabble-challenge
+[submodule "csharp-fundamentals-maps"]
+	path = csharp-fundamentals-maps
+	url = https://github.com/LinusWillmont/csharp-fundamentals-maps
+[submodule "csharp-fundamentals-lists"]
+	path = csharp-fundamentals-lists
+	url = https://github.com/LinusWillmont/csharp-fundamentals-lists
+[submodule "csharp-fundamentals-constructors-overloading"]
+	path = csharp-fundamentals-constructors-overloading
+	url = https://github.com/LinusWillmont/csharp-fundamentals-constructors-overloading
+[submodule "csharp-fizzbuzz"]
+	path = csharp-fizzbuzz
+	url = https://github.com/LinusWillmont/csharp-fizzbuzz
+[submodule "csharp-fundamentals-loops"]
+	path = csharp-fundamentals-loops
+	url = https://github.com/LinusWillmont/csharp-fundamentals-loops
+[submodule "csharp-fundamentals-control-flow"]
+	path = csharp-fundamentals-control-flow
+	url = https://github.com/LinusWillmont/csharp-fundamentals-control-flow
+[submodule "csharp-fundamentals-methods"]
+	path = csharp-fundamentals-methods
+	url = https://github.com/LinusWillmont/csharp-fundamentals-methods
+[submodule "csharp-fundamentals-arrays"]
+	path = csharp-fundamentals-arrays
+	url = https://github.com/LinusWillmont/csharp-fundamentals-arrays
+[submodule "csharp-fundamentals-strings"]
+	path = csharp-fundamentals-strings
+	url = https://github.com/LinusWillmont/csharp-fundamentals-strings
+[submodule "csharp-fundamentals-class-members"]
+	path = csharp-fundamentals-class-members
+	url = https://github.com/LinusWillmont/csharp-fundamentals-class-members
+[submodule "csharp-fundamentals-primitive-types"]
+	path = csharp-fundamentals-primitive-types
+	url = https://github.com/LinusWillmont/csharp-fundamentals-primitive-types
+[submodule "csharp-tdd-oop-inheritance"]
+	path = csharp-tdd-oop-inheritance
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-inheritance
+[submodule "csharp-tdd-oop-polymorphism"]
+	path = csharp-tdd-oop-polymorphism
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-polymorphism
+[submodule "csharp-tdd-oop-interface-dependency-injection"]
+	path = csharp-tdd-oop-interface-dependency-injection
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-interface-dependency-injection
+[submodule "csharp-tdd-oop-concrete-dependency-injection"]
+	path = csharp-tdd-oop-concrete-dependency-injection
+	url = https://github.com/LinusWillmont/csharp-tdd-oop-concrete-dependency-injection
+[submodule "csharp-tdd-bobs-bagels"]
+	path = csharp-tdd-bobs-bagels
+	url = https://github.com/LinusWillmont/csharp-tdd-bobs-bagels
+[submodule "csharp-data-modelling"]
+	path = csharp-data-modelling
+	url = https://github.com/LinusWillmont/csharp-data-modelling
